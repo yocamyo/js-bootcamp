@@ -1,5 +1,4 @@
-let isRaining = true
+const person {
+    age: 27
+}
 
-isRaining = false
-
-console.log(isRaining);
